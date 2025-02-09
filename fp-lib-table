@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "DoubleFootprint_Library")(type "KiCad")(uri "${KIPRJMOD}/ext/DoubleFootprint_Library.pretty")(options "")(descr ""))
+)
