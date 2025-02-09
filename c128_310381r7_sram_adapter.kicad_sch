@@ -5839,7 +5839,7 @@
 		)
 		(uuid "81f303cd-5adf-4bc8-8b1a-071661c01175")
 	)
-	(label "~{SRAM_EN_A}"
+	(label "~{CAS_A}"
 		(at 19.05 115.57 0)
 		(effects
 			(font
