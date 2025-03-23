@@ -20,7 +20,7 @@ You will have to remove and socket your DRAM ICs to install this board. Please, 
 
 ### Ordering the boards
 
-You can order the board for this project at [PCBWay](https://www.pcbway.com/project/shareproject/TODO.html) and support me or download 
+You can order the board for this project at [PCBWay](https://www.pcbway.com/project/shareproject/Commodore_C128_310381_R7_SRAM_Adapter_aeccc292.html) and support me or download 
 the gerbers and have them printed wherever you like!!!
 
 ## Features
