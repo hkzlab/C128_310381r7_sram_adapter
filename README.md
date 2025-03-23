@@ -8,11 +8,13 @@ By using this project You will agree that I cannot be held responsible if it wil
 
 **WARNING**: This device was only tested to fit on a motherboard model 310381R7!!!
 
+**ANOTHER WARNING**: This device is still under testing, and while it seems to be working without issues on my C128, there are no guarantees!
+
 ## Introduction
 
 This board implements a static RAM replacement for the DRAMs on a C128 with a 310381R7 motherboard.
 
-You will have to remove and socket your DRAM ICs to install this board.
+You will have to remove and socket your DRAM ICs to install this board. Please, do not kill innocent DRAM ICs by cutting their legs!
 
 ![Rev. 0 board installed in a C128](pics/rev0_installed.jpg)
 
